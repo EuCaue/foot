@@ -21,7 +21,7 @@
 
 ![Rosé Pine with Foot](https://user-images.githubusercontent.com/69485603/212540260-db0eb874-6ae4-439f-9bb3-b1c8a45abf24.png)
 
-![Rose Pine with Foot (Dawn)](https://raw.githubusercontent.com/cement-drinker/foot/patch-1/assets/light.png)
+![Rose Pine with Foot (Dawn)](https://raw.githubusercontent.com/cement-drinker/foot/patch-1/assets/prev-light.png)
 
 ## Thanks to
 
