@@ -1,0 +1,26 @@
+# -*- conf -*-
+# Rose-Piné Dawn (By cement-drinker)
+
+[cursor]
+color=faf4ed 575279
+
+[colors]
+background=faf4ed
+foreground=575279
+regular0=f2e9e1	  # black
+regular1=b4637a	  # bright red (Love)
+regular2=31748f   # bright green (Pine)
+regular3=ea9d34   # bright yellow (Gold)
+regular4=56949f	   # bright blue (Foam)
+regular5=907aa9	  # bright magenta (Iris)
+regular6=d7827e	   # bright cyan (Rose)
+regular7=575279   # bright white (Text)
+
+bright0=9893a5	   # bright black
+bright1=b4637a	  # bright red (Love)
+bright2=31748f   # bright green (Pine)
+bright3=ea9d34   # bright yellow (Gold)
+bright4=56949f	   # bright blue (Foam)
+bright5=907aa9	  # bright magenta (Iris)
+bright6=d7827e	   # bright cyan (Rose)
+bright7=575279   # bright white (Text)

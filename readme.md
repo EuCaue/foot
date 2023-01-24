@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Foot</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,14 +13,15 @@
 
 ## Usage
 
-1. Open the rose-pine file.
-2. Copy all content in the file.
-3. Paste and overwrite the section [Colors] in the yours foot.ini. 
+1. Open the rose-pine (or rose-pine-dawn) file.
+2. Copy all content in the selected file.
+3. Paste and overwrite the section [Colors] in your foot.ini file. 
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/69485603/212540260-db0eb874-6ae4-439f-9bb3-b1c8a45abf24.png)
+![Rosé Pine with Foot](https://user-images.githubusercontent.com/69485603/212540260-db0eb874-6ae4-439f-9bb3-b1c8a45abf24.png)
 
+![Rose Pine with Foot (Dawn)](https://raw.githubusercontent.com/cement-drinker/foot/patch-1/assets/prev-light.png)
 
 ## Thanks to
 
