@@ -21,6 +21,8 @@
 
 ![Rosé Pine with Foot](https://user-images.githubusercontent.com/69485603/212540260-db0eb874-6ae4-439f-9bb3-b1c8a45abf24.png)
 
+![Rosé Pine with Foot(Moon)](./assets/showoff.png)
+
 ![Rose Pine with Foot(Dawn)](./assets/prev-light.png)
 
 ## Thanks to
