@@ -16,7 +16,7 @@ regular5=c4a7e7  # magenta (Iris)
 regular6=ebbcba  # cyan (Rose)
 regular7=e0def4  # white (Text)
 
-bright0=6e6a86   # bright black (Overlay)
+bright0=6e6a86   # bright black (Muted)
 bright1=eb6f92   # bright red (Love)
 bright2=31748f   # bright green (Pine)
 bright3=f6c177   # bright yellow (Gold)
