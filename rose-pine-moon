@@ -7,6 +7,7 @@ color=232136 e0def4
 [colors]
 background=232136
 foreground=e0def4
+
 regular0=393552     # black (Overlay)
 regular1=eb6f92     # red (Love)
 regular2=9ccfd8     # green (Foam)
@@ -24,4 +25,6 @@ bright4=3e8fb0      # bright blue (Pine)
 bright5=c4a7e7      # bright magenta (Iris)
 bright6=ea9a97      # bright cyan (Rose)
 bright7=e0def4      # bright white (Text)
+
+flash=f6c177        # yellow (Gold)
 

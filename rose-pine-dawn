@@ -7,6 +7,7 @@ color=faf4ed 575279
 [colors]
 background=faf4ed
 foreground=575279
+
 regular0=f2e9e1     # black (Overlay)
 regular1=b4637a     # red (Love)
 regular2=56949f     # green (Foam)
@@ -24,4 +25,6 @@ bright4=286983      # bright blue (Pine)
 bright5=907aa9      # bright magenta (Iris)
 bright6=d7827e      # bright cyan (Rose)
 bright7=575279      # bright white (Text)
+
+flash=ea9d34        # yellow (Gold)
 
