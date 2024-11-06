@@ -13,9 +13,34 @@
 
 ## Usage
 
-1. Open the rose-pine (or rose-pine-dawn) file.
-2. Copy all content in the selected file.
-3. Paste and overwrite the section [Colors] in your foot.ini file. 
+1. Clone the repository
+2. Choose a theme variant, e.g. `rose-pine-dawn`
+3. Add an `include` directive to your `foot.ini`:
+
+```ini
+include /path/to/theme/rose-pine-dawn
+```
+
+## Extended 16-Color Variants
+
+This theme package provides two sets of color options for each variant:
+
+- 3-bit base **8-color** themes: `rose-pine`, `rose-pine-dawn`, and `rose-pine-moon`
+- 4-bit extended **16-color** themes: `rose-pine-16`, `rose-pine-dawn-16`, and `rose-pine-moon-16`
+
+The extended `*-16` theme variants include a distinctive set of 8 `bright` colors following the [ANSI color standard](https://en.wikipedia.org/wiki/ANSI_escape_code#Colors), offering a clear contrast between the `regular` and `bright` colors. **Note** that the `bright` colors are not part of the official Rosé Pine [palette](https://rosepinetheme.com/palette/); they are derived from the base colors using the [CIE76 color difference](https://en.wikipedia.org/wiki/Color_difference#CIE76) method to create visually consistent, brighter tones.
+
+**Rosé Pine Extended** `rose-pine-16`:
+
+![Rosé Pine Extended palette](./assets/rose-pine-16.png)
+
+**Rosé Pine Moon Extended** `rose-pine-moon-16`:
+
+![Rosé Pine Moon Extended palette](./assets/rose-pine-moon-16.png)
+
+**Rosé Pine Dawn Extended** `rose-pine-dawn-16`:
+
+![Rosé Pine Dawn Extended palette](./assets/rose-pine-dawn-16.png)
 
 ## Gallery
 
