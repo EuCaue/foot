@@ -27,11 +27,11 @@ This theme includes a full 16-color set, featuring 8 bright colors that follow t
 
 ## Gallery
 
-![Rosé Pine with Foot](https://user-images.githubusercontent.com/69485603/212540260-db0eb874-6ae4-439f-9bb3-b1c8a45abf24.png)
+![Rosé Pine with Foot](./assets/rose-pine.png)
 
-![Rosé Pine with Foot(Moon)](./assets/showoff.png)
+![Rosé Pine with Foot(Moon)](./assets/rose-pine-moon.png)
 
-![Rose Pine with Foot(Dawn)](./assets/prev-light.png)
+![Rose Pine with Foot(Dawn)](./assets/rose-pine-dawn.png)
 
 ## Thanks to
 
